@@ -15,6 +15,6 @@ public class Page {
 		
 		System.err.println("Factorial of"+num+" "+fact);
 		System.err.println("Factorial of"+num+" "+fact);
+	System.err.println("Factorial of"+num+" "+fact);
 	}
-
 }
